@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RyeLJt/myzWt7YnBRiiXah2CYMQG7pLtQTsMV7HyWtzTrLneFQsEIRP3U0B0C8aH5UtWa7tQ2+X4oo9vnENcIg==",
+  "dgSpecHash": "Q/dzPMByhzNG6MtP6NtFQewDX/JY3Q9CBjosC5KLqiToJSvLajU1Qd7vz35cc5H/K5spOp23qZU+Z8etiaBGBQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\brosado1\\Documents\\BlogsConsole\\BlogsConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\brosado1\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512"
+  ],
   "logs": []
 }
